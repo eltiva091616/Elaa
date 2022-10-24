@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">compose</string>
+    <string name="placeholder_search">cari..</string>
+    <string name="ab1_inversions">ab1</string>
+    <string name="ab2_inversions">ab2</string>
+    <string name="ab3_inversions">ab3</string>
+    <string name="ab4_inversions">ab4</string>
+</resources>

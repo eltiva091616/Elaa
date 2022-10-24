@@ -1,2 +1,5 @@
-package com.example.compose.ui.theme 
+package com.example.compose.ui.theme
 
+class AndroidTrainingTheme(function: () -> Unit) {
+
+}
